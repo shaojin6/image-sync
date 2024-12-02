@@ -53,3 +53,4 @@ docker.io/kubernetesui/dashboard
 docker.io/kubernetesui/metrics-scraper
 gcr.io/cadvisor/cadvisor
 docker.io/tchiotludo/akhq:0.25.1
+docker.io/bitnami/kafka
